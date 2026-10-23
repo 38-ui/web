@@ -1,0 +1,496 @@
+{
+  "version": 1,
+  "id": "8e75a2c1-da8b-467c-8ec4-e19a5d064fbe",
+  "title": "리쿠 폰",
+  "owner": "나",
+  "ownerAvatar": null,
+  "ownerInfo": {
+    "phone": "010-2003-0628"
+  },
+  "theme": "dark",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "00:00",
+  "date": "2026-10-18",
+  "clockMode": "current",
+  "lockTextTone": "auto",
+  "lockWallpaperTransform": {
+    "x": 0,
+    "y": 39.920483947013835,
+    "scale": 1.87
+  },
+  "homeWallpaperTransform": {
+    "x": 0,
+    "y": 28.611768440006784,
+    "scale": 1.77
+  },
+  "lockCode": "",
+  "lockWallpaper": "assets/1.jpg",
+  "homeWallpaper": "assets/2.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": true,
+    "music": false,
+    "calendar": false,
+    "diary": false,
+    "scrapbook": false,
+    "sns": false
+  },
+  "appLayout": {
+    "home": [
+      "photos",
+      "notes",
+      "messages",
+      "scrapbook",
+      "sns",
+      "calendar"
+    ],
+    "dock": [
+      "music",
+      "contacts",
+      "calls",
+      "diary"
+    ]
+  },
+  "homePageCount": 1,
+  "homeSlots": {
+    "messages": 5,
+    "photos": 0,
+    "notes": 1,
+    "calendar": 12,
+    "scrapbook": 16,
+    "sns": 18
+  },
+  "widgets": [
+    {
+      "id": "00cf6195-6075-4fed-a621-fe884de75c02",
+      "type": "photo",
+      "size": "2x2",
+      "slot": 2,
+      "page": 0,
+      "src": "assets/7.jpg",
+      "style": "fill",
+      "caption": "",
+      "transform": {
+        "x": 16,
+        "y": 43,
+        "scale": 1.3
+      }
+    },
+    {
+      "id": "89e4b9ff-ea04-46d9-ba63-bbe20f375614",
+      "type": "text",
+      "size": "4x1",
+      "slot": 20,
+      "page": 0,
+      "text": "한국어로 좋아한다는 말",
+      "style": "search",
+      "align": "center",
+      "font": "sans",
+      "tone": "light"
+    },
+    {
+      "id": "a6415d0f-26b6-4175-bb81-87d6325b9542",
+      "type": "contact",
+      "size": "2x2",
+      "slot": 10,
+      "page": 0,
+      "style": "portrait",
+      "contactId": "16f30e77-7cf3-4a52-9ea0-c7f9fd4cf00c"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "16f30e77-7cf3-4a52-9ea0-c7f9fd4cf00c",
+      "name": "여주",
+      "subtitle": "バカ",
+      "phone": "010-14106-486",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "ebbf14dd-7c9a-4fd0-9f11-c8a3e7861eb9",
+      "name": "토쿠노 유우시",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "4b09aac3-2297-4674-a9b1-0df9daa07d0d",
+      "name": "후지나가 사쿠야",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "6df369c6-93a7-4646-be13-237fbd6eadd7",
+      "name": "히로세 료",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": null
+    }
+  ],
+  "threads": [
+    {
+      "id": "92653dd2-9cc5-49aa-8b8f-66f1d3525155",
+      "contactId": "6df369c6-93a7-4646-be13-237fbd6eadd7",
+      "messages": [
+        {
+          "id": "e8799551-afdb-453a-99c1-f2fc15636eb0",
+          "kind": "date",
+          "text": "10월 19일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 19,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "92437725-714f-497e-ac18-fe801c8dbe62",
+          "from": "them",
+          "text": "리쿠",
+          "time": "00:12"
+        },
+        {
+          "id": "8057cc27-814e-499b-8a2a-b6fbcf18ed31",
+          "from": "them",
+          "text": "진짜 여주랑 모르는 척 하게?",
+          "time": "00:12"
+        },
+        {
+          "id": "ba757d21-5a47-4444-abd9-85aad3743fd7",
+          "from": "them",
+          "text": "그래도 여주한테 이유는 말해줘야 하지 않을까?",
+          "time": "00:12"
+        },
+        {
+          "id": "430aa5d5-3662-4ac1-9d11-1d6128e66f6a",
+          "from": "me",
+          "text": "내가 알아서 해",
+          "time": "00:12"
+        },
+        {
+          "id": "9cbb8cb4-6310-48a7-a367-5331559d2c88",
+          "from": "me",
+          "text": "신경 쓰지마",
+          "time": "00:13"
+        },
+        {
+          "id": "4bca47d3-e48d-4cce-b50a-ad31803c9b9d",
+          "kind": "date",
+          "text": "9월 20일 화요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 9,
+            "day": 20,
+            "weekday": 2
+          }
+        },
+        {
+          "id": "4709eb0b-038c-4d3e-8ec0-02763f100192",
+          "from": "me",
+          "text": "료 자꾸 얘기하고 다니지마",
+          "time": "00:17"
+        },
+        {
+          "id": "5832c304-013d-4a10-b5e4-1efe2d6ae3e5",
+          "from": "me",
+          "text": "너 때문에 다 소문 나겠어",
+          "time": "00:18"
+        },
+        {
+          "id": "402630fe-d479-4a7c-b7e3-619e559f129d",
+          "from": "them",
+          "text": "이미 소문났어",
+          "time": "00:18"
+        },
+        {
+          "id": "b6c3586c-1b79-40d4-ae98-b1ce88844160",
+          "from": "me",
+          "text": "뭐?",
+          "time": "00:18"
+        },
+        {
+          "id": "0ac0c0d6-9373-43d3-be85-be4c13e829cd",
+          "from": "them",
+          "text": "여주가 이제 마에다한테 삥 안 뜯긴다고",
+          "time": "00:18"
+        },
+        {
+          "id": "7b5f8f3e-8353-4ff8-a7ae-7bb77025a765",
+          "from": "them",
+          "text": "이제 여주가 자유의 몸이라고 소문 났던데",
+          "time": "00:19"
+        },
+        {
+          "id": "a0916e22-a1c9-4f66-b96b-1fb2a7c8a1c7",
+          "from": "them",
+          "text": "다른 학교 애들까지 다 알걸?",
+          "time": "00:22"
+        }
+      ],
+      "draft": "하 시발",
+      "timelineVersion": 1
+    },
+    {
+      "id": "5172d47a-4637-4821-b1f7-2dfa393ce71d",
+      "contactId": "ebbf14dd-7c9a-4fd0-9f11-c8a3e7861eb9",
+      "messages": [
+        {
+          "id": "edf1bd46-e653-4e9b-86d1-56c79d51b96d",
+          "kind": "date",
+          "text": "10월 20일 화요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 20,
+            "weekday": 2
+          }
+        },
+        {
+          "id": "c22009a7-52d5-4ff7-af10-f809d8e6d8bc",
+          "from": "them",
+          "text": "너",
+          "time": "00:15"
+        },
+        {
+          "id": "13489300-41d3-4dc9-a163-7f376e769823",
+          "from": "me",
+          "text": "여주 모르는 척하는거 맞아",
+          "time": "00:15"
+        },
+        {
+          "id": "664ed36c-8da9-410c-8e5a-245bd3c80352",
+          "from": "me",
+          "text": "물어보지 마 묻지도 마",
+          "time": "00:15"
+        },
+        {
+          "id": "83f94ca6-c509-4adc-979e-9511bb91ea9c",
+          "from": "me",
+          "text": "료한테 들은거지",
+          "time": "00:15"
+        },
+        {
+          "id": "69305a5d-0481-4420-baaa-dd05df704c23",
+          "from": "them",
+          "text": "ㅇㅇ",
+          "time": "00:16"
+        },
+        {
+          "id": "83241287-2d6c-42e5-8e22-247ff3894f00",
+          "from": "me",
+          "text": "진짜 료한테 뭐라 해야겠어",
+          "time": "00:16"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    },
+    {
+      "id": "a02d8b49-6da1-48b5-8617-8ae0180d00a2",
+      "contactId": "4b09aac3-2297-4674-a9b1-0df9daa07d0d",
+      "messages": [
+        {
+          "id": "68d2cf52-2d1f-49e9-8e3b-8fd303cc8f34",
+          "kind": "date",
+          "text": "10월 19일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 19,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "6053d6ba-4c3e-4cac-9639-92b86e9008fd",
+          "from": "them",
+          "text": "료한테 들음",
+          "time": "00:13"
+        },
+        {
+          "id": "7e389559-2e24-4bac-bf58-c14b13a33595",
+          "from": "them",
+          "text": "너 그러다 후회하지마",
+          "time": "00:13"
+        },
+        {
+          "id": "a16a9b8c-4bfa-4220-afef-15e726400c1b",
+          "from": "me",
+          "text": "걔는 어디까지 얘기하는거야",
+          "time": "00:14"
+        },
+        {
+          "id": "91b6d809-7f26-4232-abaf-65674ab999fa",
+          "from": "me",
+          "text": "내가 알아서 할게",
+          "time": "00:14"
+        },
+        {
+          "id": "d6859500-dad4-4c1b-b5aa-c29a2f5c8da3",
+          "from": "them",
+          "text": "그래라",
+          "time": "00:14"
+        },
+        {
+          "id": "003b7479-13e0-4761-8725-97bda6ba1f6f",
+          "from": "them",
+          "text": "근데 나중에 후회해도 몰라",
+          "time": "00:14"
+        },
+        {
+          "id": "c172a761-3fc6-4621-a98d-fc481667cb86",
+          "from": "me",
+          "text": "ㅇ",
+          "time": "00:15"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    },
+    {
+      "id": "e2de433e-80a4-4c93-ac3e-2703d35d92a5",
+      "contactId": "16f30e77-7cf3-4a52-9ea0-c7f9fd4cf00c",
+      "messages": [
+        {
+          "id": "c6a6bf39-0f76-43b9-95e7-eb42699825ef",
+          "kind": "date",
+          "text": "10월 18일 일요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 18,
+            "weekday": 0
+          }
+        },
+        {
+          "id": "9f3e54be-7437-4242-aabf-ada5ba9c33c9",
+          "from": "them",
+          "text": "너 왜 전화 안 받아?",
+          "time": "00:08"
+        },
+        {
+          "id": "875a53b1-14a5-489a-8c07-076ed3e22e6e",
+          "from": "them",
+          "text": "이제 진짜 나 모르는 척 하게?",
+          "time": "00:08"
+        },
+        {
+          "id": "d122fed8-2f69-4152-b040-606f453108ca",
+          "from": "them",
+          "text": "진심이야?",
+          "time": "00:08"
+        },
+        {
+          "id": "361d0bca-790d-4c6b-9cca-f1046f916ec3",
+          "kind": "date",
+          "text": "10월 19일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 19,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "54841ed0-d4da-4053-b9fc-2bd48b87561d",
+          "from": "them",
+          "text": "그래",
+          "time": "00:09"
+        },
+        {
+          "id": "a5b2eb48-c7ad-490e-9469-d2b20587bbff",
+          "from": "them",
+          "text": "너가 원하는 대로 모르는 척 할게",
+          "time": "00:09"
+        },
+        {
+          "id": "3ce74a6a-3ceb-4980-ad4c-ad68b4f8875a",
+          "from": "them",
+          "text": "다신 연락하지마",
+          "time": "00:09"
+        }
+      ],
+      "draft": "미안해",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "a7573aa4-0001-4aad-a397-18c8988f46a1",
+      "src": "assets/3.jpg",
+      "caption": "",
+      "date": "2026-09-18",
+      "favorite": false
+    },
+    {
+      "id": "61d61239-5b7e-49d3-948f-b53585f6e02b",
+      "src": "assets/4.jpg",
+      "caption": "",
+      "date": "2026-09-15",
+      "favorite": false
+    },
+    {
+      "id": "4a52d149-416f-43dd-90ea-353d1f18b7fe",
+      "src": "assets/5.jpg",
+      "caption": "",
+      "date": "2026-09-10",
+      "favorite": false
+    },
+    {
+      "id": "fa7e1618-c1dc-4a06-b463-ed8ac0aea6a0",
+      "src": "assets/6.jpg",
+      "caption": "",
+      "date": "2026-08-21",
+      "favorite": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "1f48c5a9-7a26-429b-8613-bda77b3db4cb",
+      "title": "",
+      "body": "조아해..\n조와해?\n\n何が正しいの？",
+      "pinned": false,
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "b5b93f70-8e5d-42d7-b3f6-adcb68d26525",
+      "title": "",
+      "body": "바보\nバカ?\n\nなに、それって好きな人にすることじゃないでしょ\n여주 バカ",
+      "pinned": false,
+      "updated": "2026-10-18"
+    }
+  ],
+  "calls": [
+    {
+      "id": "4f944921-36b4-439d-a5c3-7a0e871030c4",
+      "type": "missed",
+      "contactId": "16f30e77-7cf3-4a52-9ea0-c7f9fd4cf00c",
+      "date": "2026-10-18",
+      "time": "17:10"
+    },
+    {
+      "id": "6a91d86e-c561-48a3-9819-b90a9b929681",
+      "type": "missed",
+      "contactId": "16f30e77-7cf3-4a52-9ea0-c7f9fd4cf00c",
+      "date": "2026-10-18",
+      "time": "17:06"
+    },
+    {
+      "id": "54533074-2326-44eb-b497-78167f7304be",
+      "type": "missed",
+      "contactId": "16f30e77-7cf3-4a52-9ea0-c7f9fd4cf00c",
+      "date": "2026-10-18",
+      "time": "17:00"
+    }
+  ],
+  "updatedAt": "2026-10-17T15:43:32.857Z"
+}
